@@ -1,4 +1,4 @@
-package com.port8000.merigullak2;
+package com.port8000.merigullak;
 
 import org.junit.Test;
 

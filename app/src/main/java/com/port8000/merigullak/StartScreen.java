@@ -1,4 +1,4 @@
-package com.port8000.merigullak2;
+package com.port8000.merigullak;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

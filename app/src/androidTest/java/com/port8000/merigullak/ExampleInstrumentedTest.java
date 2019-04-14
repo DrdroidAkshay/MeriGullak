@@ -1,4 +1,4 @@
-package com.port8000.merigullak2;
+package com.port8000.merigullak;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
