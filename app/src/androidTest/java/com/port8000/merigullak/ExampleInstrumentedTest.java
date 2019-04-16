@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.port8000.merigullak2", appContext.getPackageName());
+        assertEquals("com.port8000.merigullak", appContext.getPackageName());
     }
 }
